@@ -35,6 +35,8 @@ Solo dev. I build my own tools end-to-end — DBs, GUI frameworks, languages, ap
 
 ## Projects
 
+_Most of my projects are private — I'm a bit too shy to show the unfinished work._
+
 - [enchudb](https://github.com/Mutafika/enchudb) — Columnar / cylinder DB engine. SQLite-compatible SQL + C ABI + Node binding.
 - [sabitori](https://github.com/Mutafika/sabitori) — Rust + wgpu GUI framework. Warp-level rendering quality, general-purpose.
 
