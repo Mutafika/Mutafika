@@ -28,9 +28,7 @@ Solo dev. I build my own tools end-to-end — DBs, GUI frameworks, languages, ap
 ## Gear
 
 - **Main machine:** MacBook Pro 16" (M2 Max)
-- **Editor:** _TBD_
 - **Terminal:** Warp
-- **Shell:** zsh
 - **OS:** macOS
 
 ## Projects
